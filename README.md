@@ -1,6 +1,6 @@
 # movie-data-analysis
 
-## This repository displays Python code used to analyze highly rated movies from the 1990s, the 2000s, and the 2010s.
+## This repository displays Python code written to analyze highly rated movies from the 1990s, the 2000s, and the 2010s.
 
 ## Contents
 
